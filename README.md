@@ -1,5 +1,5 @@
 # Deep_Learning-with-projects
-<span style="font-size:24px">Emnist Datasett</span>
+<h1>Emnist Dataset</h1>
 <p>
 The EMNIST (Extended MNIST) dataset is a collection of handwritten character digits derived from the NIST Special Database 19. It has been converted to a 28x28 pixel image format and dataset structure that directly matches the original MNIST dataset, making it easily compatible with tools and models designed for MNIST.
 
