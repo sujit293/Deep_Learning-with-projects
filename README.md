@@ -15,5 +15,12 @@ The EMNIST (Extended MNIST) dataset is a collection of handwritten character dig
 <li>EMNIST Letters: 145,600 characters. 26 balanced classes.</li>
 <li>EMNIST Digits: 280,000 characters. 10 balanced classes.</li>
 <li>EMNIST MNIST: 70,000 characters. 10 balanced classes.</li>
-</ul
+</ul>
+
+<h4>List of Model with error and make it for different models</h4>
+<ol>
+  <li><h2> CNN Model:</h2> </li>
+  <p>A Convolutional Neural Network (CNN) is a powerful type of neural network particularly well-suited for image recognition tasks, and it's often used with the EMNIST dataset for handwritten character and digit recognition. CNNs excel at this task due to their ability to learn and extract hierarchical features from images, such as edges and shapes, which are crucial for recognizing handwritten characters. </p>
+</ol>
+
 
